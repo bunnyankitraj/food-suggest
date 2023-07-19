@@ -9,5 +9,6 @@ public class FoodSuggestionApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FoodSuggestionApplication.class, args);
 	}
+	
 
 }
